@@ -1,1 +1,1 @@
-# miniProject-carRental
+# carRental system
